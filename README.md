@@ -23,7 +23,7 @@ entropy minimization. This would yield a low number of label flips. Conversely, 
 and entropy minimization will move the embeddings around, yielding many label flips. We elaborate on this in our paper. 
 
 
-##Getting started
+## Getting started
 Running estimation requires just one argument. If you want to additionally use temperature scaling, 
 you have to also provide a calibration dataset. 
 ```
