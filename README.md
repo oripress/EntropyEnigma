@@ -37,7 +37,7 @@ python3 main.py \
 If you find this work helpful, please use the following citation:
 ```
 @inproceedings{pres2024entropy,
-  title={On calibration of modern neural networks},
+  title={The Entropy Enigma: Success and Failure of Entropy Minimization},
   author={Press, Ori and Shwartz-Ziv, Ravid and LeCun, Yann and Bethge, Matthias},
   booktitle={International Conference on Machine Learning},
   year={2024},
