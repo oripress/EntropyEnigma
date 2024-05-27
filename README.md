@@ -2,7 +2,7 @@
 
 ![](fit_and_est.png)
 
-This repository contains the code used in our ICML 2024 [paper](https://oripress.com/_pages/EntropyEnigma.pdf).
+This repository contains the code used in our ICML 2024 [paper](https://arxiv.org/pdf/2405.05012).
 Our method allows you to estimate the accuracy of a model on a given dataset, while the model adapts to the dataset.
 
 We show that method that use entropy minimization to adapt to their inputs work by clustering the embeddings of their inputs.
